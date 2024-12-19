@@ -31,3 +31,9 @@ Welcome to my GitHub profile!
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </a>
+
+## 📬 My Contacts
+
+<a href="mailto:2ethanpark0225@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
