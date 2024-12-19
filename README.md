@@ -31,6 +31,12 @@ Welcome to my GitHub profile!
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
 
 ## 📬 My Contacts
 
