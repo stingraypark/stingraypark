@@ -1,4 +1,4 @@
-# Hello, I'm Gaon Park 🙂
+## Hello, I'm Gaon Park 🙂
 
 Welcome to my GitHub profile!
 
