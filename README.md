@@ -1,4 +1,8 @@
-## 👋 Hello, I'm Gaon Park
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=stingraypark&animation=&fontColor=ffffff&fontSize=60" />
+</div>
+
+## 👋 Hello, I'm Stingray Park
 
 Welcome to my GitHub profile!
 I'm alive and well
